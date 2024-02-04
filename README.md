@@ -21,7 +21,7 @@ To run this Streamlit app locally, follow these steps:
 Clone this GitHub repository:
 
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/keshavgarg24/chatwithpdf.git
 
 Navigate to the project directory:
 Copy code
@@ -47,5 +47,5 @@ langchain_google_genai
 dotenv
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU License. See the LICENSE file for details.
 
