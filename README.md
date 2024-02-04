@@ -41,9 +41,13 @@ Access the app in your web browser at http://localhost:8501.
 
 # Dependencies
 Streamlit
+
 PyPDF2
+
 langchain
+
 langchain_google_genai
+
 dotenv
 
 # License
